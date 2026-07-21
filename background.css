@@ -1,0 +1,34 @@
+body,html{
+	background: linear-gradient(to right, rgb(200, 228, 228), rgb(56, 56, 56));
+	width: 100%;
+	height: 100%;
+}
+h2,h1{
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	cursor: default;
+}
+h1{
+	margin-top: 5555px;
+	margin-bottom: 20px;
+	width: 100%;
+
+}
+h2{
+	margin-top: 10px;
+	width: 100%;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+h4{
+	text-align: center;
+	margin-top: 0px;
+	cursor: default;
+}
+.in{
+	text-align: center;
+	cursor: pointer;
+}
